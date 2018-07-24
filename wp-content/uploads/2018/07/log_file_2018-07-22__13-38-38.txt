@@ -1,0 +1,96 @@
+
+---Downloaded files---
+The import files for: Theme Demo Content were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://khuntweb.000webhostapp.com
+Data file = /storage/ssd2/097/6285097/public_html/wp-content/themes/galway-lite/demo-content/galway-lite.xml
+Widget file = /storage/ssd2/097/6285097/public_html/wp-content/themes/galway-lite/demo-content/galway-lite.wie
+Customizer file = /storage/ssd2/097/6285097/public_html/wp-content/themes/galway-lite/demo-content/galway-lite.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+GW: Author Widget - About me - Imported
+GW: Recent Post - Recent Post - Imported
+Categories - Featured Categories - Imported
+Search - No Title - Widget already exists
+Text - Advertise (Buy Galway) - Imported
+GW: Social Widget - Social - Imported
+
+Offcanvas Panel : 
+
+GW: Author Widget - Galway Lite - Imported
+Categories - Quick View Archive - Imported
+Tag Cloud - Tagged - Imported
+
+Footer Column One : 
+
+Text - Galway Lite - Imported
+
+Footer Column Two : 
+
+GW: Recent Post - Most Viewed - Imported
+
+Footer Column Three : 
+
+Gallery - View Gallery - Imported
+
+
+
+---Importing widgets---
+Sidebar : 
+
+GW: Author Widget - About me - Widget already exists
+GW: Recent Post - Recent Post - Widget already exists
+Categories - Featured Categories - Widget already exists
+Search - No Title - Widget already exists
+Text - Advertise (Buy Galway) - Widget already exists
+GW: Social Widget - Social - Widget already exists
+
+Offcanvas Panel : 
+
+GW: Author Widget - Galway Lite - Widget already exists
+Categories - Quick View Archive - Widget already exists
+Tag Cloud - Tagged - Widget already exists
+
+Footer Column One : 
+
+Text - Galway Lite - Widget already exists
+
+Footer Column Two : 
+
+GW: Recent Post - Most Viewed - Widget already exists
+
+Footer Column Three : 
+
+Gallery - View Gallery - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
